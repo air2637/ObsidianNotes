@@ -20,6 +20,138 @@
             }
           },
           {
+            "id": "e8918426d92666da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/1. Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af65d08c3b0f1ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/Singleton Design Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d67e75f43066fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/Factory Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d030fe714df096b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/Facade Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1836b73574c89327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/Proxy Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18448efc558eec98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/Observer Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af52a49aee0d264f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/Command Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97fc440a3db9a38b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/Template Method Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7631e2443dc689e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/Model-View-Controller Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d28e34042260b09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/State Design Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be24d8c286357004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/1. Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7b91018fcbb641d1",
             "type": "leaf",
             "state": {
@@ -29,7 +161,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -95,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/8. High Availability and Scalability- ELB, ASG.md",
+                "file": "Design Pattern/1. Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/8. High Availability and Scalability- ELB, ASG.md",
+                "file": "Design Pattern/1. Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/8. High Availability and Scalability- ELB, ASG.md"
+                "file": "Design Pattern/1. Basics.md"
               }
             }
           }
@@ -156,17 +289,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9294af63b92ab59b",
+  "active": "be24d8c286357004",
   "lastOpenFiles": [
-    "Leetcode/Problem Patterns.md",
-    "pics/Screenshot 2023-02-12 at 2.32.43 PM.png",
-    "pics/Screenshot 2023-02-12 at 3.58.46 PM.png",
-    "AWS/8. High Availability and Scalability- ELB, ASG.md",
-    "Computer Networking/Understanding IP address, subnets,CIDR.md",
-    "Computer Networking/DNS.md",
-    "Sample Markdown syntax.md",
-    "Kubernetes/4. Deployments.md",
-    "Kubernetes/3. Virtual Clusters with Namespaces.md",
-    "Kubernetes/Screenshot 2022-11-12 at 3.07.13 PM.png"
+    "Design Pattern/Anti-patterns.md",
+    "Design Pattern/State Design Pattern.md",
+    "Design Pattern/Model-View-Controller Pattern.md",
+    "Design Pattern/Template Method Pattern.md",
+    "Design Pattern/Command Pattern.md",
+    "Design Pattern/Observer Pattern.md",
+    "Design Pattern/Proxy Pattern.md",
+    "Design Pattern/Facade Pattern.md",
+    "Design Pattern/Factory Pattern.md",
+    "Design Pattern/Singleton Design Pattern.md"
   ]
 }
