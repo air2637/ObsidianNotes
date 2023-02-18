@@ -152,6 +152,18 @@
             }
           },
           {
+            "id": "ab0e305af5c621d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7b91018fcbb641d1",
             "type": "leaf",
             "state": {
@@ -162,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Pattern/1. Basics.md",
+                "file": "Design Pattern/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Pattern/1. Basics.md",
+                "file": "Design Pattern/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Pattern/1. Basics.md"
+                "file": "Design Pattern/README.md"
               }
             }
           }
@@ -289,8 +301,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be24d8c286357004",
+  "active": "ab0e305af5c621d6",
   "lastOpenFiles": [
+    "Design Pattern/1. Basics.md",
     "Design Pattern/Anti-patterns.md",
     "Design Pattern/State Design Pattern.md",
     "Design Pattern/Model-View-Controller Pattern.md",
@@ -299,7 +312,6 @@
     "Design Pattern/Observer Pattern.md",
     "Design Pattern/Proxy Pattern.md",
     "Design Pattern/Facade Pattern.md",
-    "Design Pattern/Factory Pattern.md",
-    "Design Pattern/Singleton Design Pattern.md"
+    "Design Pattern/Factory Pattern.md"
   ]
 }
