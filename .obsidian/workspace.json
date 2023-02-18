@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "9a02accab0d7470d",
+    "type": "split",
+    "children": [
+      {
+        "id": "59c6ee3580ce67d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9294af63b92ab59b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/8. High Availability and Scalability- ELB, ASG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b91018fcbb641d1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "pics/Screenshot 2023-02-12 at 2.32.43 PM.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4a7977ea55ebadd",
+    "type": "split",
+    "children": [
+      {
+        "id": "373c6ad36a12f4f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b518ad1aa3402894",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c1da455d9d30bd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "life",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "acb35128ec312efe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202.5
+  },
+  "right": {
+    "id": "5c839ec6c166f7b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c61028135bce184",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "224ce996add0755a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS/8. High Availability and Scalability- ELB, ASG.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc93f3fed65ddc83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS/8. High Availability and Scalability- ELB, ASG.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f59113c69f36d508",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "f6b8d5908f559498",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS/8. High Availability and Scalability- ELB, ASG.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9294af63b92ab59b",
+  "lastOpenFiles": [
+    "Leetcode/Problem Patterns.md",
+    "pics/Screenshot 2023-02-12 at 2.32.43 PM.png",
+    "pics/Screenshot 2023-02-12 at 3.58.46 PM.png",
+    "AWS/8. High Availability and Scalability- ELB, ASG.md",
+    "Computer Networking/Understanding IP address, subnets,CIDR.md",
+    "Computer Networking/DNS.md",
+    "Sample Markdown syntax.md",
+    "Kubernetes/4. Deployments.md",
+    "Kubernetes/3. Virtual Clusters with Namespaces.md",
+    "Kubernetes/Screenshot 2022-11-12 at 3.07.13 PM.png"
+  ]
+}
