@@ -149,6 +149,7 @@
   "active": "18bc923ea8657a6e",
   "lastOpenFiles": [
     "Design Pattern/1. Basics.md",
+    "Design Pattern/2. Singleton Design Pattern.md",
     "Leetcode/Problem Patterns.md",
     "Design Pattern/README.md",
     "AWS/8. High Availability and Scalability- ELB, ASG.md",
@@ -156,7 +157,6 @@
     "Design Pattern/State Design Pattern.md",
     "Design Pattern/Model-View-Controller Pattern.md",
     "Design Pattern/Template Method Pattern.md",
-    "Design Pattern/Command Pattern.md",
-    "Design Pattern/Observer Pattern.md"
+    "Design Pattern/Command Pattern.md"
   ]
 }
