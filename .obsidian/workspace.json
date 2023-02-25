@@ -4,177 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "59c6ee3580ce67d4",
+        "id": "2f7e0b87107c4ff9",
         "type": "tabs",
         "children": [
           {
-            "id": "9294af63b92ab59b",
+            "id": "18bc923ea8657a6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/8. High Availability and Scalability- ELB, ASG.md",
+                "file": "Design Pattern/2. Singleton Design Pattern.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e8918426d92666da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/1. Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af65d08c3b0f1ac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/Singleton Design Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d67e75f43066fcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/Factory Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d030fe714df096b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/Facade Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1836b73574c89327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/Proxy Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18448efc558eec98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/Observer Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af52a49aee0d264f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/Command Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97fc440a3db9a38b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/Template Method Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7631e2443dc689e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/Model-View-Controller Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d28e34042260b09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/State Design Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be24d8c286357004",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/1. Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab0e305af5c621d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b91018fcbb641d1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "pics/Screenshot 2023-02-12 at 2.32.43 PM.png"
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Pattern/README.md",
+                "file": "Design Pattern/2. Singleton Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Pattern/README.md",
+                "file": "Design Pattern/2. Singleton Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Pattern/README.md"
+                "file": "Design Pattern/2. Singleton Design Pattern.md"
               }
             }
           }
@@ -289,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab0e305af5c621d6",
+  "active": "18bc923ea8657a6e",
   "lastOpenFiles": [
     "Design Pattern/1. Basics.md",
+    "Leetcode/Problem Patterns.md",
+    "Design Pattern/README.md",
+    "AWS/8. High Availability and Scalability- ELB, ASG.md",
     "Design Pattern/Anti-patterns.md",
     "Design Pattern/State Design Pattern.md",
     "Design Pattern/Model-View-Controller Pattern.md",
     "Design Pattern/Template Method Pattern.md",
     "Design Pattern/Command Pattern.md",
-    "Design Pattern/Observer Pattern.md",
-    "Design Pattern/Proxy Pattern.md",
-    "Design Pattern/Facade Pattern.md",
-    "Design Pattern/Factory Pattern.md"
+    "Design Pattern/Observer Pattern.md"
   ]
 }
