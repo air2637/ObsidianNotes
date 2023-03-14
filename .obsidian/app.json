@@ -1,4 +1,5 @@
 {
   "spellcheck": true,
-  "attachmentFolderPath": "pics"
+  "attachmentFolderPath": "pics",
+  "vimMode": true
 }
