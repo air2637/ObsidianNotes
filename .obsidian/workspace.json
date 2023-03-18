@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/10. Route 53 (1h20min).md",
+                "file": "AWS/11. Classic Solutions Architecture Discussions (41mins).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5,
+    "width": 276.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/10. Route 53 (1h20min).md",
+                "file": "AWS/11. Classic Solutions Architecture Discussions (41mins).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/10. Route 53 (1h20min).md",
+                "file": "AWS/11. Classic Solutions Architecture Discussions (41mins).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/10. Route 53 (1h20min).md"
+                "file": "AWS/11. Classic Solutions Architecture Discussions (41mins).md"
               }
             }
           }
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
-    "collapsed": true
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
