@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1239b90d19cea354",
+            "id": "84a9080574469984",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/4. EC2 - Solutions Architect Associate level.md",
+                "file": "AWS/8. High Availability and Scalability- ELB, ASG.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c839ec6c166f7b3",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/4. EC2 - Solutions Architect Associate level.md",
+                "file": "AWS/8. High Availability and Scalability- ELB, ASG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/4. EC2 - Solutions Architect Associate level.md",
+                "file": "AWS/8. High Availability and Scalability- ELB, ASG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/4. EC2 - Solutions Architect Associate level.md"
+                "file": "AWS/8. High Availability and Scalability- ELB, ASG.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1239b90d19cea354",
+  "active": "84a9080574469984",
   "lastOpenFiles": [
-    "AWS/3. EC2 Fundamentals.md",
+    "AWS/7. EC2 instance storage.md",
     "AWS/4. EC2 - Solutions Architect Associate level.md",
+    "AWS/3. EC2 Fundamentals.md",
     "AWS/8. High Availability and Scalability- ELB, ASG.md",
     "AWS/2. IAM and AWS CLI.md",
     "AWS/1. Basics.md",
@@ -173,7 +175,6 @@
     "AWS/15. CloudFront & AWS Global Accelerator (35mins).md",
     "AWS/14. Amazon S3 Security (51mins).md",
     "AWS/13. Advanced Amazon S3(25mins).md",
-    "AWS/12 Amazon S3 Introduction (47mins).md",
     "AWS/Untitled"
   ]
 }
