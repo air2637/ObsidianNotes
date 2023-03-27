@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/13. Advanced Amazon S3(25mins).md",
+                "file": "AWS/15. CloudFront & AWS Global Accelerator (35mins).md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 437.5
   },
   "right": {
     "id": "5c839ec6c166f7b3",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/13. Advanced Amazon S3(25mins).md",
+                "file": "AWS/15. CloudFront & AWS Global Accelerator (35mins).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/13. Advanced Amazon S3(25mins).md",
+                "file": "AWS/15. CloudFront & AWS Global Accelerator (35mins).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/13. Advanced Amazon S3(25mins).md"
+                "file": "AWS/15. CloudFront & AWS Global Accelerator (35mins).md"
               }
             }
           }
@@ -160,10 +160,10 @@
   },
   "active": "029d3badd431c261",
   "lastOpenFiles": [
-    "AWS/12 Amazon S3 Introduction (47mins).md",
-    "AWS/13. Advanced Amazon S3(25mins).md",
-    "AWS/2. IAM and AWS CLI.md",
     "AWS/14. Amazon S3 Security (51mins).md",
+    "AWS/13. Advanced Amazon S3(25mins).md",
+    "AWS/12 Amazon S3 Introduction (47mins).md",
+    "AWS/2. IAM and AWS CLI.md",
     "AWS/1. Basics.md",
     "AWS/11. Classic Solutions Architecture Discussions (41mins).md",
     "AWS/7. EC2 instance storage.md",
