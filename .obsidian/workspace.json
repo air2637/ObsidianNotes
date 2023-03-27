@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/11. Classic Solutions Architecture Discussions (41mins).md",
+                "file": "AWS/13. Advanced Amazon S3(25mins).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed862ca5ab9f15ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/2. IAM and AWS CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/11. Classic Solutions Architecture Discussions (41mins).md",
+                "file": "AWS/13. Advanced Amazon S3(25mins).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/11. Classic Solutions Architecture Discussions (41mins).md",
+                "file": "AWS/13. Advanced Amazon S3(25mins).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/11. Classic Solutions Architecture Discussions (41mins).md"
+                "file": "AWS/13. Advanced Amazon S3(25mins).md"
               }
             }
           }
@@ -149,14 +160,17 @@
   },
   "active": "029d3badd431c261",
   "lastOpenFiles": [
-    "AWS/7. EC2 instance storage.md",
+    "AWS/12 Amazon S3 Introduction (47mins).md",
+    "AWS/13. Advanced Amazon S3(25mins).md",
+    "AWS/2. IAM and AWS CLI.md",
+    "AWS/14. Amazon S3 Security (51mins).md",
+    "AWS/1. Basics.md",
     "AWS/11. Classic Solutions Architecture Discussions (41mins).md",
+    "AWS/7. EC2 instance storage.md",
     "AWS/8. High Availability and Scalability- ELB, ASG.md",
     "AWS/4. EC2 - Solutions Architect Associate level.md",
     "AWS/10. Route 53 (1h20min).md",
     "AWS/3. EC2 Fundamentals.md",
-    "AWS/1. Basics.md",
-    "AWS/2. IAM and AWS CLI.md",
     "AWS/9. RDS, Aurora,ElastiCache.md",
     "Stock/长期的力量/长期的力量.md",
     "AWS/30. Other Services (35mins).md",
@@ -171,9 +185,6 @@
     "AWS/21. Database in AWS (26mins).md",
     "AWS/20. Serverless Solution Architecture Discussions (16mins).md",
     "AWS/19. Severless Overviews from a solution architect (1h16mins).md",
-    "AWS/18. Containers on AWS - ECS, Fargate, ECR & EKS (51mins).md",
-    "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md",
-    "AWS/16. AWS Storage Extras (49mins).md",
-    "AWS/15. CloudFront & AWS Global Accelerator (35mins).md"
+    "AWS/18. Containers on AWS - ECS, Fargate, ECR & EKS (51mins).md"
   ]
 }
