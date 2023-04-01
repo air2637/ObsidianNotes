@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3117173211125c89",
+        "id": "315eafe970850b60",
         "type": "tabs",
         "children": [
           {
-            "id": "8d673103f864b4bb",
+            "id": "029d3badd431c261",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/16. AWS Storage Extras (49mins).md",
+                "file": "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md",
                 "mode": "source",
                 "source": false
               },
@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "bacfaa3cdb078da5",
+            "id": "ffb26e7f2b3dbf00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/7. EC2 instance storage.md",
+                "file": "AWS/12 Amazon S3 Introduction (47mins).md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "EFS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 541.5
+    "width": 238.5
   },
   "right": {
     "id": "5c839ec6c166f7b3",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/16. AWS Storage Extras (49mins).md",
+                "file": "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/16. AWS Storage Extras (49mins).md",
+                "file": "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/16. AWS Storage Extras (49mins).md"
+                "file": "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md"
               }
             }
           }
@@ -161,15 +161,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d673103f864b4bb",
+  "active": "f6b8d5908f559498",
   "lastOpenFiles": [
-    "AWS/7. EC2 instance storage.md",
-    "AWS/16. AWS Storage Extras (49mins).md",
     "AWS/12 Amazon S3 Introduction (47mins).md",
-    "AWS/2. IAM and AWS CLI.md",
+    "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md",
     "AWS/13. Advanced Amazon S3(25mins).md",
-    "AWS/15. CloudFront & AWS Global Accelerator (35mins).md",
+    "AWS/2. IAM and AWS CLI.md",
     "AWS/14. Amazon S3 Security (51mins).md",
+    "AWS/1. Basics.md",
+    "AWS/11. Classic Solutions Architecture Discussions (41mins).md",
+    "AWS/7. EC2 instance storage.md",
+    "AWS/8. High Availability and Scalability- ELB, ASG.md",
+    "AWS/4. EC2 - Solutions Architect Associate level.md",
+    "AWS/10. Route 53 (1h20min).md",
+    "AWS/3. EC2 Fundamentals.md",
+    "AWS/9. RDS, Aurora,ElastiCache.md",
+    "Stock/长期的力量/长期的力量.md",
     "AWS/30. Other Services (35mins).md",
     "AWS/29. More Solution Architectures (28mins).md",
     "AWS/28. Disaster Recovery & Migrations (40mins).md",
@@ -181,13 +188,6 @@
     "AWS/22. Data & Analytics (50mins).md",
     "AWS/21. Database in AWS (26mins).md",
     "AWS/20. Serverless Solution Architecture Discussions (16mins).md",
-    "AWS/19. Severless Overviews from a solution architect (1h16mins).md",
-    "AWS/18. Containers on AWS - ECS, Fargate, ECR & EKS (51mins).md",
-    "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md",
-    "AWS/1. Basics.md",
-    "AWS/11. Classic Solutions Architecture Discussions (41mins).md",
-    "AWS/8. High Availability and Scalability- ELB, ASG.md",
-    "AWS/4. EC2 - Solutions Architect Associate level.md",
-    "AWS/10. Route 53 (1h20min).md"
+    "AWS/19. Severless Overviews from a solution architect (1h16mins).md"
   ]
 }
