@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "315eafe970850b60",
+        "id": "963b634fe94141b8",
         "type": "tabs",
         "children": [
           {
-            "id": "ffb26e7f2b3dbf00",
+            "id": "6981a13bc56aa7d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/18. Containers on AWS - ECS, Fargate, ECR & EKS (51mins).md",
+                "file": "AWS/19. Severless Overviews from a solution architect (1h16mins).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "386a0f24399ac557",
+            "id": "4803b5ffa21bf7d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/8. High Availability and Scalability- ELB, ASG.md",
+                "file": "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "near",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/18. Containers on AWS - ECS, Fargate, ECR & EKS (51mins).md",
+                "file": "AWS/19. Severless Overviews from a solution architect (1h16mins).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/18. Containers on AWS - ECS, Fargate, ECR & EKS (51mins).md",
+                "file": "AWS/19. Severless Overviews from a solution architect (1h16mins).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/18. Containers on AWS - ECS, Fargate, ECR & EKS (51mins).md"
+                "file": "AWS/19. Severless Overviews from a solution architect (1h16mins).md"
               }
             }
           }
@@ -158,13 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffb26e7f2b3dbf00",
+  "active": "b518ad1aa3402894",
   "lastOpenFiles": [
+    "AWS/15. CloudFront & AWS Global Accelerator (35mins).md",
+    "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md",
+    "AWS/19. Severless Overviews from a solution architect (1h16mins).md",
+    "AWS/13. Advanced Amazon S3(25mins).md",
     "AWS/8. High Availability and Scalability- ELB, ASG.md",
     "AWS/18. Containers on AWS - ECS, Fargate, ECR & EKS (51mins).md",
-    "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md",
     "AWS/12 Amazon S3 Introduction (47mins).md",
-    "AWS/13. Advanced Amazon S3(25mins).md",
     "AWS/2. IAM and AWS CLI.md",
     "AWS/14. Amazon S3 Security (51mins).md",
     "AWS/1. Basics.md",
@@ -183,8 +185,6 @@
     "AWS/25. Identity and Access Management(IAM) (48mins).md",
     "AWS/24. AWS Monitoring & Audit - Cloudwatch, CloudTrail & Config (1h19min).md",
     "AWS/23. Machine Learning (27mins).md",
-    "AWS/22. Data & Analytics (50mins).md",
-    "AWS/21. Database in AWS (26mins).md",
-    "AWS/20. Serverless Solution Architecture Discussions (16mins).md"
+    "AWS/22. Data & Analytics (50mins).md"
   ]
 }
