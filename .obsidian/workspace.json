@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/19. Severless Overviews from a solution architect (1h16mins).md",
+                "file": "AWS/21. Database in AWS (26mins).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4803b5ffa21bf7d8",
+            "id": "e2bb897beb71bcfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md",
+                "file": "AWS/19. Severless Overviews from a solution architect (1h16mins).md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "near",
+                "query": "s3 batch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,11 +77,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 396.5024719238281
+    "width": 446.51103591918945
   },
   "right": {
     "id": "5c839ec6c166f7b3",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/19. Severless Overviews from a solution architect (1h16mins).md",
+                "file": "AWS/21. Database in AWS (26mins).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/19. Severless Overviews from a solution architect (1h16mins).md",
+                "file": "AWS/21. Database in AWS (26mins).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/19. Severless Overviews from a solution architect (1h16mins).md"
+                "file": "AWS/21. Database in AWS (26mins).md"
               }
             }
           }
@@ -146,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,15 +160,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b518ad1aa3402894",
+  "active": "6981a13bc56aa7d3",
   "lastOpenFiles": [
-    "AWS/15. CloudFront & AWS Global Accelerator (35mins).md",
-    "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md",
+    "AWS/12 Amazon S3 Introduction (47mins).md",
     "AWS/19. Severless Overviews from a solution architect (1h16mins).md",
+    "AWS/21. Database in AWS (26mins).md",
+    "AWS/18. Containers on AWS - ECS, Fargate, ECR & EKS (51mins).md",
+    "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md",
+    "AWS/16. AWS Storage Extras (49mins).md",
+    "AWS/9. RDS, Aurora,ElastiCache.md",
+    "AWS/20. Serverless Solution Architecture Discussions (16mins).md",
+    "AWS/15. CloudFront & AWS Global Accelerator (35mins).md",
     "AWS/13. Advanced Amazon S3(25mins).md",
     "AWS/8. High Availability and Scalability- ELB, ASG.md",
-    "AWS/18. Containers on AWS - ECS, Fargate, ECR & EKS (51mins).md",
-    "AWS/12 Amazon S3 Introduction (47mins).md",
     "AWS/2. IAM and AWS CLI.md",
     "AWS/14. Amazon S3 Security (51mins).md",
     "AWS/1. Basics.md",
@@ -175,16 +181,12 @@
     "AWS/4. EC2 - Solutions Architect Associate level.md",
     "AWS/10. Route 53 (1h20min).md",
     "AWS/3. EC2 Fundamentals.md",
-    "AWS/9. RDS, Aurora,ElastiCache.md",
     "Stock/长期的力量/长期的力量.md",
     "AWS/30. Other Services (35mins).md",
     "AWS/29. More Solution Architectures (28mins).md",
     "AWS/28. Disaster Recovery & Migrations (40mins).md",
     "AWS/27. Networking - VPC (2h38mins).md",
     "AWS/26. AWS Security & Encryption - KMS, SSM (1h31mins).md",
-    "AWS/25. Identity and Access Management(IAM) (48mins).md",
-    "AWS/24. AWS Monitoring & Audit - Cloudwatch, CloudTrail & Config (1h19min).md",
-    "AWS/23. Machine Learning (27mins).md",
-    "AWS/22. Data & Analytics (50mins).md"
+    "AWS/25. Identity and Access Management(IAM) (48mins).md"
   ]
 }
