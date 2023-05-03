@@ -10,28 +10,81 @@
           {
             "id": "6981a13bc56aa7d3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/21. Database in AWS (26mins).md",
+                "file": "AWS/For exam cheat sheet - 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "cc6d73cfe7d19e51",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/For exam cheat sheet - 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f3757a9dd3cb7624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/For exam cheat sheet - 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e2bb897beb71bcfd",
+            "id": "1195157bdd502a65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/19. Severless Overviews from a solution architect (1h16mins).md",
+                "file": "CCNA/1. Host to Host Communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfa953bf1865f955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my_holiday_passport/Steps for my first vps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ce9bcbc5fa64e78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my_holiday_passport/Steps for my first vps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -60,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "s3 batch",
+                "query": "\"simple scaling\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +130,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 446.51103591918945
+    "width": 321.5
   },
   "right": {
     "id": "5c839ec6c166f7b3",
@@ -98,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/21. Database in AWS (26mins).md",
+                "file": "my_holiday_passport/Steps for my first vps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/21. Database in AWS (26mins).md",
+                "file": "my_holiday_passport/Steps for my first vps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/21. Database in AWS (26mins).md"
+                "file": "my_holiday_passport/Steps for my first vps.md"
               }
             }
           }
@@ -160,33 +212,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6981a13bc56aa7d3",
+  "active": "4ce9bcbc5fa64e78",
   "lastOpenFiles": [
+    "my_holiday_passport/Register CA.md",
+    "my_holiday_passport/Steps for my first vps.md",
+    "CCNA/1. Host to Host Communication.md",
+    "my_holiday_passport",
+    "AWS/For exam cheat sheet - 1.md",
+    "CCNA",
+    "AWS/For exam cheat sheet - 2.md",
+    "AWS/8. High Availability and Scalability- ELB, ASG.md",
+    "AWS/16. AWS Storage Extras (49mins).md",
+    "AWS/18. Containers on AWS - ECS, Fargate, ECR & EKS (51mins).md",
+    "AWS/27. Networking - VPC (2h38mins).md",
+    "AWS/28. Disaster Recovery & Migrations (40mins).md",
+    "AWS/11. Classic Solutions Architecture Discussions (41mins).md",
+    "AWS/22. Data & Analytics (50mins).md",
+    "AWS/21. Database in AWS (26mins).md",
+    "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md",
+    "AWS/24. AWS Monitoring & Audit - Cloudwatch, CloudTrail & Config (1h19min).md",
+    "AWS/26. AWS Security & Encryption - KMS, SSM (1h31mins).md",
+    "AWS/1. Basics.md",
+    "AWS/25. Identity and Access Management(IAM) (48mins).md",
     "AWS/12 Amazon S3 Introduction (47mins).md",
     "AWS/19. Severless Overviews from a solution architect (1h16mins).md",
-    "AWS/21. Database in AWS (26mins).md",
-    "AWS/18. Containers on AWS - ECS, Fargate, ECR & EKS (51mins).md",
-    "AWS/17. Decoupleing applications - SQS, SNS, Kinesis, Active MQ (1h32mins).md",
-    "AWS/16. AWS Storage Extras (49mins).md",
     "AWS/9. RDS, Aurora,ElastiCache.md",
     "AWS/20. Serverless Solution Architecture Discussions (16mins).md",
     "AWS/15. CloudFront & AWS Global Accelerator (35mins).md",
     "AWS/13. Advanced Amazon S3(25mins).md",
-    "AWS/8. High Availability and Scalability- ELB, ASG.md",
     "AWS/2. IAM and AWS CLI.md",
-    "AWS/14. Amazon S3 Security (51mins).md",
-    "AWS/1. Basics.md",
-    "AWS/11. Classic Solutions Architecture Discussions (41mins).md",
-    "AWS/7. EC2 instance storage.md",
-    "AWS/4. EC2 - Solutions Architect Associate level.md",
-    "AWS/10. Route 53 (1h20min).md",
-    "AWS/3. EC2 Fundamentals.md",
-    "Stock/长期的力量/长期的力量.md",
-    "AWS/30. Other Services (35mins).md",
-    "AWS/29. More Solution Architectures (28mins).md",
-    "AWS/28. Disaster Recovery & Migrations (40mins).md",
-    "AWS/27. Networking - VPC (2h38mins).md",
-    "AWS/26. AWS Security & Encryption - KMS, SSM (1h31mins).md",
-    "AWS/25. Identity and Access Management(IAM) (48mins).md"
+    "AWS/14. Amazon S3 Security (51mins).md"
   ]
 }
